@@ -480,8 +480,24 @@
     <div id="mvcomments" class="card-content" style="display: grid">
     </div>
 </div>
-
-<script src="https://cdn.jsdelivr.net/gh/wangyucan123/wangyucan123.github.iohttps://cdn.jsdelivr.net/npm/minivaline/dist/MiniValine.min.js"></script>
+<!--PC和WAP自适应版畅言云评-->
+<div id="SOHUCS" sid="00001" ></div> 
+<script type="text/javascript"> 
+(function(){ 
+var appid = 'cyv95rrVB'; 
+var conf = 'prod_fff4c02c7970c078e35eb3a6e2a851a4'; 
+var width = window.innerWidth || document.documentElement.clientWidth; 
+if (width < 960) {
+var head = document.getElementsByTagName('head')[0]||document.head||document.documentElement;
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.charset = 'utf-8';
+script.id = 'changyan_mobile_js';
+script.src = 'https://cy-cdn.kuaizhan.com/upload/mobile/wap-js/changyan_mobile.js?client_id=' + appid + '&conf=' + conf;
+head.appendChild(script);
+} else { var loadJs=function(d,a){var c=document.getElementsByTagName("head")[0]||document.head||document.documentElement;var b=document.createElement("script");b.setAttribute("type","text/javascript");b.setAttribute("charset","UTF-8");b.setAttribute("src",d);if(typeof a==="function"){if(window.attachEvent){b.onreadystatechange=function(){var e=b.readyState;if(e==="loaded"||e==="complete"){b.onreadystatechange=null;a()}}}else{b.onload=a}}c.appendChild(b)};loadJs("https://cy-cdn.kuaizhan.com/upload/changyan.js",function(){window.changyan.api.config({appid:appid,conf:conf})}); } })(); </script>
+<!--删除了原来的minivaline改为畅言云评-->
+<!-- <script src="https://cdn.jsdelivr.net/gh/wangyucan123/wangyucan123.github.iohttps://cdn.jsdelivr.net/npm/minivaline/dist/MiniValine.min.js"></script>
 <script>
     new MiniValine({
         el: '#mvcomments',
@@ -505,7 +521,7 @@
         serverURLs: '',
         emoticonUrl: ["https://cdn.jsdelivr.net/npm/alus@latest", "https://cdn.jsdelivr.net/gh/MiniValine/qq@latest", "https://cdn.jsdelivr.net/gh/MiniValine/Bilibilis@latest", "https://cdn.jsdelivr.net/gh/MiniValine/tieba@latest", "https://cdn.jsdelivr.net/gh/MiniValine/twemoji@latest", "https://cdn.jsdelivr.net/gh/MiniValine/weibo@latest"],
     });
-</script>
+</script> -->
 
     
 
