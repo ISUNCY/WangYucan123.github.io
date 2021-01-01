@@ -4,11 +4,50 @@
   
     
     <entry>
+      <title>五子棋v1.2code</title>
+      <link href="2020/12/26/%E4%BA%94%E5%AD%90%E6%A3%8Bv1-2code/"/>
+      <url>2020/12/26/%E4%BA%94%E5%AD%90%E6%A3%8Bv1-2code/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>五子棋v1.0code</title>
+      <link href="2020/12/26/%E4%BA%94%E5%AD%90%E6%A3%8Bv1-0code/"/>
+      <url>2020/12/26/%E4%BA%94%E5%AD%90%E6%A3%8Bv1-0code/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>五子棋v0.8code</title>
+      <link href="2020/12/26/%E4%BA%94%E5%AD%90%E6%A3%8Bv0-8code/"/>
+      <url>2020/12/26/%E4%BA%94%E5%AD%90%E6%A3%8Bv0-8code/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>五子棋下载</title>
       <link href="2020/11/14/%E4%BA%94%E5%AD%90%E6%A3%8B/"/>
       <url>2020/11/14/%E4%BA%94%E5%AD%90%E6%A3%8B/</url>
       
-        <content type="html"><![CDATA[<h1 id="五子棋（最新版本：v1-0）"><a href="#五子棋（最新版本：v1-0）" class="headerlink" title="五子棋（最新版本：v1.0）"></a>五子棋（最新版本：v1.0）</h1><p><strong>本游戏由C语言+easyx图形库制作，制作者：奇光灿烂</strong></p><h2 id="v0-8"><a href="#v0-8" class="headerlink" title="v0.8"></a>v0.8</h2><h3 id="效果展示"><a href="#效果展示" class="headerlink" title="效果展示"></a>效果展示</h3><h4 id="初始界面"><a href="#初始界面" class="headerlink" title="初始界面"></a>初始界面</h4><p><img src="./v0.8-1.png" alt="五子棋效果展示" title="五子棋效果展示"><br>可以选择“开始游戏”、“退出游戏”或“关于”。</p><h4 id="开始游戏"><a href="#开始游戏" class="headerlink" title="开始游戏"></a>开始游戏</h4><p><img src="./v0.8-2.png" alt="五子棋效果展示" title="五子棋效果展示"><br>游戏右侧的边栏显示行棋方、回合数、已用时间以及对局结果。</p><h4 id="黑棋胜"><a href="#黑棋胜" class="headerlink" title="黑棋胜"></a>黑棋胜</h4><p><img src="./v0.8-3.png" alt="五子棋效果展示" title="五子棋效果展示"><br>此外，本游戏还带有背景音乐，可以自行下载尝试^_^。</p><h3 id="源代码"><a href="#源代码" class="headerlink" title="源代码"></a>源代码</h3><p><a href="https://wangyucan1.gitee.io/2020/11/14/%E4%BA%94%E5%AD%90%E6%A3%8B/v0.8code.html" title="v0.8源代码">点击查看</a></p><h3 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h3><p> 运行环境：WindowsXP, Windows7, Windows8, Windows10</p><h4 id="下载方式一：安装包"><a href="#下载方式一：安装包" class="headerlink" title="下载方式一：安装包"></a>下载方式一：安装包</h4><p>下载链接：<a href="http://lz.qaiu.top/parser?url=https://wws.lanzous.com/iNreUj2whhc" title="五子棋v0.8.exe">五子棋v0.8.exe</a><br>备用下载链接：<a href="https://wws.lanzous.com/iNreUj2whhc" title="五子棋v0.8.exe">五子棋v0.8.exe</a></p><h4 id="下载方式二：免安装版"><a href="#下载方式二：免安装版" class="headerlink" title="下载方式二：免安装版"></a>下载方式二：免安装版</h4><p>下载链接：<a href="http://lz.qaiu.top/parser?url=https://wws.lanzous.com/iyWRxj2whje" title="五子棋v0.8.rar">五子棋v0.8.rar</a><br>备用下载链接：<a href="https://wws.lanzous.com/iyWRxj2whje" title="五子棋v0.8.rar">五子棋.rar</a></p><h2 id="v1-0（最新）"><a href="#v1-0（最新）" class="headerlink" title="v1.0（最新）"></a>v1.0（最新）</h2><h3 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h3><ul><li>修复点击后闪红点的bug</li><li>新增重新开始游戏功能</li><li>优化代码，提升用户体验<h3 id="效果展示-1"><a href="#效果展示-1" class="headerlink" title="效果展示"></a>效果展示</h3><img src="./v1.0-1.png" alt="五子棋效果展示"><br><img src="./v1.0-2.png" alt="五子棋效果展示"></li></ul><h3 id="源代码-1"><a href="#源代码-1" class="headerlink" title="源代码"></a>源代码</h3><p><a href="https://wangyucan1.gitee.io/2020/11/14/%E4%BA%94%E5%AD%90%E6%A3%8B/v1.0code.html" title="v1.0源代码">点击查看</a></p><h3 id="下载-1"><a href="#下载-1" class="headerlink" title="下载"></a>下载</h3><p> 运行环境：WindowsXP, Windows7, Windows8, Windows10</p><h4 id="安装包"><a href="#安装包" class="headerlink" title="安装包"></a>安装包</h4><a class="btn" href="http://lz.qaiu.top/parser?url=https://wws.lanzous.com/iz756j2whmh"  title="下载" target="_blank">下载</a><a class="btn" href="https://wws.lanzous.com/iz756j2whmh"  title="备用下载" target="_blank">备用下载</a><h4 id="免安装版（压缩包）"><a href="#免安装版（压缩包）" class="headerlink" title="免安装版（压缩包）"></a>免安装版（压缩包）</h4><a class="btn" href="http://lz.qaiu.top/parser?url=https://wws.lanzous.com/iiFHnj2whpa"  title="下载" target="_blank">下载</a><a class="btn" href="https://wws.lanzous.com/iiFHnj2whpa"  title="下载" target="_blank">下载</a><p><strong>关于此游戏的改进建议以及意见，欢迎下方评论留言！</strong></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="五子棋"><a href="#五子棋" class="headerlink" title="五子棋"></a>五子棋</h1><p><strong>本游戏由C语言+easyx图形库制作，制作者：奇光灿烂</strong></p><h2 id="v1-0（最新）"><a href="#v1-0（最新）" class="headerlink" title="v1.0（最新）"></a>v1.0（最新）</h2><h3 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h3><ul><li>修复点击后闪红点的bug</li><li>新增重新开始游戏功能</li><li>优化代码，提升用户体验<h3 id="效果展示"><a href="#效果展示" class="headerlink" title="效果展示"></a>效果展示</h3><img src="./v1.0-1.png" alt="五子棋效果展示"><br><img src="./v1.0-2.png" alt="五子棋效果展示"></li></ul><h3 id="源代码"><a href="#源代码" class="headerlink" title="源代码"></a>源代码</h3><p><a href="https://wangyucan1.gitee.io/2020/11/14/%E4%BA%94%E5%AD%90%E6%A3%8B/v1.0code.html" title="v1.0源代码">点击查看</a></p><h3 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h3><p> 运行环境：WindowsXP, Windows7, Windows8, Windows10</p><h4 id="安装包"><a href="#安装包" class="headerlink" title="安装包"></a>安装包</h4><p>下载链接：</p><a class="btn" href="http://lz.qaiu.top/parser?url=https://wws.lanzous.com/iz756j2whmh"  title="五子棋v1.0.exe" target="_blank">五子棋v1.0.exe</a><p>备用下载链接：</p><a class="btn" href="https://wws.lanzous.com/iz756j2whmh"  title="五子棋v1.0.exe" target="_blank">五子棋v1.0.exe</a><h4 id="免安装版（压缩包）"><a href="#免安装版（压缩包）" class="headerlink" title="免安装版（压缩包）"></a>免安装版（压缩包）</h4><p>下载链接：</p><a class="btn" href="http://lz.qaiu.top/parser?url=https://wws.lanzous.com/iiFHnj2whpa"  title="五子棋v1.0.rar" target="_blank">五子棋v1.0.rar</a><p>备用下载链接：</p><a class="btn" href="https://wws.lanzous.com/iiFHnj2whpa"  title="五子棋v1.0.rar" target="_blank">五子棋v1.0.rar</a><p><strong>关于此游戏的改进建议以及意见，欢迎下方评论留言！</strong></p><h2 id="v0-8"><a href="#v0-8" class="headerlink" title="v0.8"></a>v0.8</h2><h3 id="效果展示-1"><a href="#效果展示-1" class="headerlink" title="效果展示"></a>效果展示</h3><h4 id="初始界面"><a href="#初始界面" class="headerlink" title="初始界面"></a>初始界面</h4><p><img src="./v0.8-1.png" alt="五子棋效果展示"><br>可以选择“开始游戏”、“退出游戏”或“关于”。</p><h4 id="开始游戏"><a href="#开始游戏" class="headerlink" title="开始游戏"></a>开始游戏</h4><p><img src="./v0.8-2.png" alt="五子棋效果展示"><br>游戏右侧的边栏显示行棋方、回合数、已用时间以及对局结果。</p><h4 id="黑棋胜"><a href="#黑棋胜" class="headerlink" title="黑棋胜"></a>黑棋胜</h4><p><img src="./v0.8-3.png" alt="五子棋效果展示"><br>此外，本游戏还带有背景音乐，可以自行下载尝试^_^。</p><h3 id="源代码-1"><a href="#源代码-1" class="headerlink" title="源代码"></a>源代码</h3><p><a href="https://wangyucan1.gitee.io/2020/11/14/%E4%BA%94%E5%AD%90%E6%A3%8B/v0.8code.html" title="v0.8源代码">点击查看</a></p><h3 id="下载-1"><a href="#下载-1" class="headerlink" title="下载"></a>下载</h3><p> 运行环境：WindowsXP, Windows7, Windows8, Windows10</p><h4 id="安装包-1"><a href="#安装包-1" class="headerlink" title="安装包"></a>安装包</h4><p>下载链接：</p><a class="btn" href="http://lz.qaiu.top/parser?url=https://wws.lanzous.com/iNreUj2whhc"  title="五子棋v0.8.exe" target="_blank">五子棋v0.8.exe</a><p>备用下载链接：</p><a class="btn" href="https://wws.lanzous.com/iNreUj2whhc"  title="五子棋v0.8.exe" target="_blank">五子棋v0.8.exe</a><h4 id="免安装版（压缩包）-1"><a href="#免安装版（压缩包）-1" class="headerlink" title="免安装版（压缩包）"></a>免安装版（压缩包）</h4><p>下载链接：</p><a class="btn" href="http://lz.qaiu.top/parser?url=https://wws.lanzous.com/iyWRxj2whje"  title="五子棋v0.8.rar" target="_blank">五子棋v0.8.rar</a><p>备用下载链接：</p><a class="btn" href="https://wws.lanzous.com/iyWRxj2whje"  title="五子棋v0.8.rar" target="_blank">五子棋v0.8.rar</a>]]></content>
       
       
       <categories>
